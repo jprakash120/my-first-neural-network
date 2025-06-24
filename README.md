@@ -19,7 +19,7 @@ This project demonstrates a simple neural network built using TensorFlow and Ker
 2. Run the notebook:
     - Using Jupyter:
         ```bash
-        jupyter notebook my_first_neural_network_fixed.ipynb
+        jupyter notebook my_first_neural_network.ipynb
         ```
     - Or open directly in VS Code.
 
